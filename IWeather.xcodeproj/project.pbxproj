@@ -12,6 +12,9 @@
 		DC3036961DDDD1FE000A61A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC3036941DDDD1FE000A61A1 /* Main.storyboard */; };
 		DC3036981DDDD1FE000A61A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC3036971DDDD1FE000A61A1 /* Assets.xcassets */; };
 		DC30369B1DDDD1FE000A61A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC3036991DDDD1FE000A61A1 /* LaunchScreen.storyboard */; };
+		DC3036A51DDDD41C000A61A1 /* Blood.png in Resources */ = {isa = PBXBuildFile; fileRef = DC3036A21DDDD41C000A61A1 /* Blood.png */; };
+		DC3036A61DDDD41C000A61A1 /* Moon.png in Resources */ = {isa = PBXBuildFile; fileRef = DC3036A31DDDD41C000A61A1 /* Moon.png */; };
+		DC3036A71DDDD41C000A61A1 /* Sun.png in Resources */ = {isa = PBXBuildFile; fileRef = DC3036A41DDDD41C000A61A1 /* Sun.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		DC3036971DDDD1FE000A61A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC30369A1DDDD1FE000A61A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC30369C1DDDD1FE000A61A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC3036A21DDDD41C000A61A1 /* Blood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Blood.png; sourceTree = "<group>"; };
+		DC3036A31DDDD41C000A61A1 /* Moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Moon.png; sourceTree = "<group>"; };
+		DC3036A41DDDD41C000A61A1 /* Sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sun.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				DC3036971DDDD1FE000A61A1 /* Assets.xcassets */,
 				DC3036991DDDD1FE000A61A1 /* LaunchScreen.storyboard */,
 				DC30369C1DDDD1FE000A61A1 /* Info.plist */,
+				DC3036A21DDDD41C000A61A1 /* Blood.png */,
+				DC3036A31DDDD41C000A61A1 /* Moon.png */,
+				DC3036A41DDDD41C000A61A1 /* Sun.png */,
 			);
 			path = IWeather;
 			sourceTree = "<group>";
@@ -124,7 +133,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC3036A71DDDD41C000A61A1 /* Sun.png in Resources */,
+				DC3036A51DDDD41C000A61A1 /* Blood.png in Resources */,
 				DC30369B1DDDD1FE000A61A1 /* LaunchScreen.storyboard in Resources */,
+				DC3036A61DDDD41C000A61A1 /* Moon.png in Resources */,
 				DC3036981DDDD1FE000A61A1 /* Assets.xcassets in Resources */,
 				DC3036961DDDD1FE000A61A1 /* Main.storyboard in Resources */,
 			);
